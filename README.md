@@ -2,6 +2,11 @@
 
 A high-performance, multi-threaded utility for changing Discord tokens with advanced security features.
 
+## Showcase
+
+![image](https://github.com/user-attachments/assets/b443f7f0-6766-49d9-bf08-70e573d32ed3)
+
+
 ## Features
 
 - **Multi-Threading Support**: Process multiple tokens simultaneously for maximum efficiency
