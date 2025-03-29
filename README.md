@@ -1,4 +1,4 @@
-# Discord Token Changer
+# Discord Token Changer PasswordLess
 
 A high-performance, multi-threaded utility for changing Discord tokens with advanced security features.
 
